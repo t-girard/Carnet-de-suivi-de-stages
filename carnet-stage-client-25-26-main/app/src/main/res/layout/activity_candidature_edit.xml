@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F5F7FA"
+    android:padding="20dp"
+    android:layout_marginTop="20dp"
+    tools:context=".CandidatureEditActivity">
+
+    <Button
+        android:id="@+id/retourCandidatures"
+        style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Offre"
+        android:textColor="#2D3436"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:backgroundTint="@android:color/white"
+        app:cornerRadius="12dp"
+        app:elevation="4dp"
+        app:icon="?attr/homeAsUpIndicator"
+        app:iconTint="@android:color/holo_orange_dark"
+        app:strokeColor="#DFE6E9"
+        app:strokeWidth="1dp" />
+
+    <TextView
+        android:id="@+id/intitule"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="16dp"
+        android:text="Intitulé candidature"
+        android:textColor="#2D3436"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginBottom="24dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="État"
+                android:textColor="@android:color/holo_orange_dark"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <Spinner
+                android:id="@+id/etatsCandidature"
+                style="@style/Widget.AppCompat.Spinner.Underlined"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="20dp"
+                android:backgroundTint="@android:color/holo_orange_dark"
+                android:padding="12dp"
+                android:spinnerMode="dropdown"
+                android:entries="@array/etats_candidatures" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="20dp"
+                android:background="#F1F2F6" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Relancer le"
+                android:textColor="@android:color/holo_orange_dark"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <EditText
+                android:id="@+id/dateAction"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginTop="8dp"
+                android:background="@android:drawable/editbox_background"
+                android:hint="dd/mm/yyyy hh:mm"
+                android:inputType="datetime"
+                android:padding="12dp"
+                android:textSize="16sp" />
+
+            <!-- Espace flexible pour pousser le bouton vers le bas -->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+            <Button
+                android:id="@+id/abandonCandidature"
+                style="@style/Widget.MaterialComponents.Button.TextButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="Abandonner la candidature"
+                android:textColor="#D63031"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/annuler"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_marginEnd="8dp"
+            android:layout_weight="1"
+            android:text="Annuler"
+            android:textColor="#2D3436"
+            app:cornerRadius="12dp"
+            app:strokeColor="#DFE6E9" />
+
+        <Button
+            android:id="@+id/valider"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="8dp"
+            android:layout_weight="1"
+            android:text="Modifier"
+            android:textStyle="bold"
+            app:backgroundTint="@android:color/holo_orange_dark"
+            app:cornerRadius="12dp"
+            app:elevation="4dp" />
+
+    </LinearLayout>
+
+</LinearLayout>

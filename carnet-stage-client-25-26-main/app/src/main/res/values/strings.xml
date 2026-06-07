@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SaeProjet</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">S\'authentifier</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="token_key">token key</string>
+    <string name="login_key">login key</string>
+    <string name="login_id_key">login id key</string>
+    <string name="login_id_path">login id path</string>
+    <string name="offre_url">www.offre.net</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="etats_candidatures">
+        <item>Candidature à envoyer</item>
+        <item>En attente de réponse</item>
+        <item>En attente de RDV</item>
+        <item>Entretien à réaliser</item>
+        <item>Candidature refusée</item>
+        <item>Candidature acceptée</item>
+        <item>Choix définitif</item>
+    </string-array>
+
+</resources>

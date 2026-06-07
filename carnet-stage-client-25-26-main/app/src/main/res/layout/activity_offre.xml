@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F5F7FA"
+    android:padding="20dp"
+    android:layout_marginTop="20dp"
+    tools:context=".OffreActivity">
+
+  <Button
+      android:id="@+id/backOffres"
+      style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Offres"
+      android:textColor="#2D3436"
+      android:textSize="20dp"
+      android:textStyle="bold"
+      app:backgroundTint="@android:color/white"
+      app:cornerRadius="12dp"
+      app:elevation="4dp"
+      app:icon="?attr/homeAsUpIndicator"
+      app:iconTint="@android:color/holo_orange_dark"
+      app:strokeColor="#DFE6E9"
+      app:strokeWidth="1dp" />
+
+  <TextView
+      android:id="@+id/titreOffre"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="24dp"
+      android:text="Nom de l'offre"
+      android:textColor="#2D3436"
+      android:textSize="28sp"
+      android:textStyle="bold" />
+
+  <TextView
+      android:id="@+id/statutOffre"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Statut : "
+      android:textColor="@android:color/holo_green_dark"
+      android:textStyle="bold" />
+
+  <androidx.cardview.widget.CardView
+      android:id="@+id/detailsCard"
+      android:layout_width="match_parent"
+      android:layout_height="0dp"
+      android:layout_marginTop="24dp"
+      android:layout_weight="1"
+      app:cardCornerRadius="16dp"
+      app:cardElevation="4dp">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:orientation="vertical"
+          android:padding="20dp">
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Entreprise"
+            android:textColor="@android:color/holo_orange_dark"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/nomEntreprise"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="Non renseigné"
+            android:textColor="#2D3436"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ville"
+            android:textColor="@android:color/holo_orange_dark"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/nomVille"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="Non renseigné"
+            android:textColor="#2D3436"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lien de l'offre"
+            android:textColor="@android:color/holo_orange_dark"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/offreUrl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:text="http://lien-offre.com"
+            android:textColor="#0069D9"
+            android:textSize="16sp" />
+
+      </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+  </androidx.cardview.widget.CardView>
+
+  <Button
+      android:id="@+id/buttonCandidature"
+      android:layout_width="match_parent"
+      android:layout_height="60dp"
+      android:layout_marginTop="16dp"
+      android:layout_marginBottom="16dp"
+      android:text="Candidater"
+      android:textAllCaps="true"
+      android:textStyle="bold"
+      app:backgroundTint="@android:color/holo_orange_dark"
+      app:cornerRadius="12dp"
+      app:elevation="6dp" />
+
+</LinearLayout>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F5F7FA"
+    android:padding="20dp"
+    android:layout_marginTop="20dp"
+    tools:context=".ListOffresActivity">
+
+    <Button
+        android:id="@+id/backSynthese"
+        style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Accueil"
+        android:textColor="#2D3436"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:backgroundTint="@android:color/white"
+        app:cornerRadius="12dp"
+        app:elevation="4dp"
+        app:icon="?attr/homeAsUpIndicator"
+        app:iconTint="@android:color/holo_orange_dark"
+        app:strokeColor="#DFE6E9"
+        app:strokeWidth="1dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Offres"
+        android:textColor="#2D3436"
+        android:textSize="32sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/nb_offres"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="XXX Offres disponibles"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textSize="16sp"
+        android:textStyle="italic" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardList"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="24dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="8dp">
+
+            <LinearLayout
+                android:id="@+id/rowOffre1"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/offre1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:paddingStart="20dp"
+                    android:textColor="#2D3436"
+                    android:textSize="18sp"
+                    tools:text="Titre offre 1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:text="→"
+                    android:textColor="#B2BEC3"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <View android:id="@+id/sep1" android:layout_width="match_parent" android:layout_height="1dp" android:background="#F1F2F6" android:layout_marginHorizontal="16dp"/>
+
+            <LinearLayout
+                android:id="@+id/rowOffre2"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/offre2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:paddingStart="20dp"
+                    android:textColor="#2D3436"
+                    android:textSize="18sp"
+                    tools:text="Titre offre 2" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:text="→"
+                    android:textColor="#B2BEC3"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <View android:id="@+id/sep2" android:layout_width="match_parent" android:layout_height="1dp" android:background="#F1F2F6" android:layout_marginHorizontal="16dp"/>
+
+            <LinearLayout
+                android:id="@+id/rowOffre3"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/offre3"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:paddingStart="20dp"
+                    android:textColor="#2D3436"
+                    android:textSize="18sp"
+                    tools:text="Titre offre 3" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:text="→"
+                    android:textColor="#B2BEC3"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <View android:id="@+id/sep3" android:layout_width="match_parent" android:layout_height="1dp" android:background="#F1F2F6" android:layout_marginHorizontal="16dp"/>
+
+            <LinearLayout
+                android:id="@+id/rowOffre4"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/offre4"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:paddingStart="20dp"
+                    android:textColor="#2D3436"
+                    android:textSize="18sp"
+                    tools:text="Titre offre 4" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:text="→"
+                    android:textColor="#B2BEC3"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <View android:id="@+id/sep4" android:layout_width="match_parent" android:layout_height="1dp" android:background="#F1F2F6" android:layout_marginHorizontal="16dp"/>
+
+            <LinearLayout
+                android:id="@+id/rowOffre5"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/offre5"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:paddingStart="20dp"
+                    android:textColor="#2D3436"
+                    android:textSize="18sp"
+                    tools:text="Titre offre 5" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:text="→"
+                    android:textColor="#B2BEC3"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:id="@+id/layoutButtons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonPrec"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_weight="1"
+            android:text="Précédent"
+            app:cornerRadius="8dp"
+            android:textColor="@color/black"
+            app:strokeColor="@android:color/holo_orange_dark" />
+
+        <Button
+            android:id="@+id/buttonNext"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_weight="1"
+            android:text="Suivant"
+            app:backgroundTint="@android:color/holo_orange_dark"
+            app:cornerRadius="8dp"
+            app:elevation="2dp" />
+
+    </LinearLayout>
+
+</LinearLayout>
