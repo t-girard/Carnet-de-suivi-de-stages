@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test:core:1.6.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/0be82c2f86a04f027a95a6dcdf40af23/transformed/core-1.6.1/AndroidManifest.xml" />
+      <root url="file:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/0be82c2f86a04f027a95a6dcdf40af23/transformed/core-1.6.1/res" />
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/0be82c2f86a04f027a95a6dcdf40af23/transformed/core-1.6.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/modules-2/files-2.1/androidx.test/core/1.6.1/373d480f7ae91a32ac4ee1583709af21f319c951/core-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.okhttp3:logging-interceptor:5.0.0-alpha.14" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.squareup.okhttp3" artifactId="logging-interceptor" version="5.0.0-alpha.14" />
+    <CLASSES>
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/5.0.0-alpha.14/3ad5d40a9fd22189173cacf23ef665b14faa7fe8/logging-interceptor-5.0.0-alpha.14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/5.0.0-alpha.14/e7d6db59488e9ae6c39bc0e5defe6061fe0eaff3/logging-interceptor-5.0.0-alpha.14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/5.0.0-alpha.14/b4d7c57615a33d8873e96ccdd5e0371a472d5379/logging-interceptor-5.0.0-alpha.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

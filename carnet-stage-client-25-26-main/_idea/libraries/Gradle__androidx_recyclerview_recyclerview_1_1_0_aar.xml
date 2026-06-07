@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/080f6ceb4bf83e1f379cb04dcb8001fb/transformed/recyclerview-1.1.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/080f6ceb4bf83e1f379cb04dcb8001fb/transformed/recyclerview-1.1.0/res" />
+      <root url="file:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/080f6ceb4bf83e1f379cb04dcb8001fb/transformed/recyclerview-1.1.0/AndroidManifest.xml" />
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/080f6ceb4bf83e1f379cb04dcb8001fb/transformed/recyclerview-1.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///usr/local/gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

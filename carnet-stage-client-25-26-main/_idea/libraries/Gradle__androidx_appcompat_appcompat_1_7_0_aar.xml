@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.appcompat:appcompat:1.7.0@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/e5258ea3cfbb4f1b860eaa585528d87a/transformed/appcompat-1.7.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/e5258ea3cfbb4f1b860eaa585528d87a/transformed/appcompat-1.7.0/jars/classes.jar!/" />
+      <root url="file:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/e5258ea3cfbb4f1b860eaa585528d87a/transformed/appcompat-1.7.0/res" />
+      <root url="file:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/e5258ea3cfbb4f1b860eaa585528d87a/transformed/appcompat-1.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.7.0/c66c25a939bfe4b18249922dc4e7a19caca8bf68/appcompat-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

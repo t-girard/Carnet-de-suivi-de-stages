@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.media:media:1.0.0@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/c384f57552ada7bc7308f11b8eee19d3/transformed/media-1.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/c384f57552ada7bc7308f11b8eee19d3/transformed/media-1.0.0/jars/classes.jar!/" />
+      <root url="file:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/c384f57552ada7bc7308f11b8eee19d3/transformed/media-1.0.0/res" />
+      <root url="file:///donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/c384f57552ada7bc7308f11b8eee19d3/transformed/media-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/modules-2/files-2.1/androidx.media/media/1.0.0/5faf25be15e16e27275f5c7e04e15e944ebccea0/media-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

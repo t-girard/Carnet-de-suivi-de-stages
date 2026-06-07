@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.okhttp3:okhttp:5.0.0-alpha.14" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.squareup.okhttp3" artifactId="okhttp" version="5.0.0-alpha.14" />
+    <CLASSES>
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/5.0.0-alpha.14/c59864766ffc0d0dd4394ec0af5e3b60bf83d10f/okhttp-5.0.0-alpha.14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/5.0.0-alpha.14/a2d489ad5c67c2524b8793e47987a2a95f2f9947/okhttp-5.0.0-alpha.14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///donnees/TP-infobut2a/girardth/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/5.0.0-alpha.14/c2feb06752bae43c343393e6cae01990d07727da/okhttp-5.0.0-alpha.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
