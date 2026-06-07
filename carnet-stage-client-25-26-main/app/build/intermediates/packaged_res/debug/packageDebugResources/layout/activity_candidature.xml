@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="20dp"
+    android:padding="20dp"
+    android:background="@android:color/white"
+    tools:context=".CandidatureActivity">
+
+    <Button
+        android:id="@+id/retourCandidatures"
+        style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="candidatures"
+        android:textColor="#2D3436"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:backgroundTint="@android:color/white"
+        app:cornerRadius="12dp"
+        app:elevation="4dp"
+        app:icon="?attr/homeAsUpIndicator"
+        app:iconTint="@android:color/holo_orange_dark"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:strokeColor="#DFE6E9"
+        app:strokeWidth="1dp" />
+
+    <TextView
+        android:id="@+id/intitule"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Intitulé candidature"
+        android:textColor="@color/black"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:paddingTop="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Statut actuel"
+        android:textColor="#757575"
+        android:textSize="14sp"
+        android:textAllCaps="true" />
+
+    <TextView
+        android:id="@+id/etat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+        android:text="En attente"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="Dernière mise à jour"
+        android:textColor="#757575"
+        android:textSize="14sp"
+        android:textAllCaps="true" />
+
+    <TextView
+        android:id="@+id/dateAction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+        android:text="JJ/MM/YYYY"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="380dp" />
+
+    <Button
+        android:id="@+id/mettreajour"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Mettre à jour la candidature"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        android:backgroundTint="@android:color/holo_orange_dark"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>
