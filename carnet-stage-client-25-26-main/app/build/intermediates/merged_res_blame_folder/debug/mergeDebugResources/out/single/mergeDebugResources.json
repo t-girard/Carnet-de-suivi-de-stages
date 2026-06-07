@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/layout_item_candidature.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/layout/item_candidature.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/layout_activity_list_candidatures.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/layout/activity_list_candidatures.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/layout_template_candidature.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/layout/template_candidature.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/layout_activity_candidature_edit.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/layout/activity_candidature_edit.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/layout_activity_list_users.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/layout/activity_list_users.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/layout_activity_list_offres.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/layout/activity_list_offres.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/layout_activity_offre.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/layout/activity_offre.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/layout_activity_login.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/layout_activity_list.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/layout/activity_list.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/drawable_bg_custom.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/drawable/bg_custom.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/layout_activity_candidature.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/layout/activity_candidature.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "fr.iut2.saeprojet.app-debug-32:/layout_activity_offre.xml.flat",
+        "source": "fr.iut2.saeprojet.app-main-34:/layout/activity_offre.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/xml_backup_rules.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-debug-32:/layout_activity_create_user.xml.flat",
+        "source": "/donnees/TP-infobut2a/girardth/.gradle/daemon/8.10.2/fr.iut2.saeprojet.app-main-34:/layout/activity_create_user.xml"
+    }
+]

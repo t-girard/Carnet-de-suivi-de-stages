@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "fr.iut2.saeprojet.app-mergeDebugResources-30:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/e5258ea3cfbb4f1b860eaa585528d87a/transformed/appcompat-1.7.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
