@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "fr.iut2.saeprojet.app-mergeDebugResources-30:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/donnees/TP-infobut2a/girardth/.gradle/caches/8.10.2/transforms/e5258ea3cfbb4f1b860eaa585528d87a/transformed/appcompat-1.7.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
